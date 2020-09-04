@@ -1,7 +1,3 @@
-= Notes =
+= Go =
 
-== Go ==
-
-* [[folder/Test]]
-* [[Git]]
-* [[Shell]]
+- [[golang/course]]
