@@ -1,3 +1,9 @@
 = Go course =
 
+== Theory ==
 
+    == Procedures ==
+
+    == Facts ==
+
+    == Lists ==
